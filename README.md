@@ -1,17 +1,22 @@
+# 𝐀𝐆𝐎𝐑𝐀'𝐒 𝐕𝐂 𝐑𝐎𝐁𝐎𝐓
+
+# [![★彡[𝐀𝐆𝐎𝐑𝐀 𝐕𝐂 𝐑𝐎𝐁𝐎𝐓]彡★](https://te.legra.ph/file/636be2f6321a519bf56de.jpg)](https://github.com/Agora-OS/VC-Robot)
+
 ## This Is Telegram Music UserBot To Play Music Without Being Admin
 
 ## A FASTEST AND SMOOTHEST BASED ON TG CALLS AND PYROGRAM STRING.
 
-## 🚀 <a name="deploy"></a>Deploy
+# 🚀 <a name="deploy"></a>Deploy
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGEND-OS/Music-VC)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Agora-OS/AV-Robot)
 
+# [![★彡[𝐀𝐆𝐎𝐑𝐀 𝐕𝐂 𝐑𝐎𝐁𝐎𝐓]彡★](https://te.legra.ph/file/1ac5a708ad44281c70ce2.jpg)](https://github.com/Agora-OS/AV-Robot)
 
-## [REPL](https://t.me/LEGEND_STRINGSESSIONBOT)
+## [REPL](https://t.me/pyrogram_stringbot)
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
-$ git clone https://github.com/LEGEND-OS/Music-VC
+$ git clone https://github.com/Agora-OS/AV-Robot
 $ cd MusicPlayer
 $ cp sample.env .env
 < edit .env with your own values >
