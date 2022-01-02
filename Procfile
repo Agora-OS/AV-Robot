@@ -1,1 +1,1 @@
-worker: AV ROBOT main.py
+worker: python3 main.py
