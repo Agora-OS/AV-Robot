@@ -52,7 +52,7 @@ from core.decorators import register, language, handle_error, only_admins
 REPO = """
  **AV Player**
 - Repo: [GitHub](https://github.com/Agora-OS/AV-Robot)
-- Owner: @Prof_Agora
+- Owner: [PROFESSOR](https://t.me/agora_professor)
 """
 
 
@@ -69,7 +69,7 @@ async def repo(_, message: Message):
 )
 @handle_error
 async def ping(_, message: Message):
-    await message.reply_text(f"🤖 **Pong!**\n`{await pytgcalls.ping} ms`")
+    await message.reply_text(f"🤖 **Yes Professor!**\n`{await pytgcalls.ping} ms`")
 
 
 @app.on_message(
