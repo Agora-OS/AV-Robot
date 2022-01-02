@@ -51,8 +51,8 @@ from core.decorators import register, language, handle_error, only_admins
 
 REPO = """
  **AV Player**
-- Repo: [GitHub](https://github.com/Agora-OS/AV-Robot)
-- Owner: [PROFESSOR](https://t.me/agora_professor)
+- Repo: ⚡[GitHub](https://github.com/Agora-OS/AV-Robot)⚡
+- Owner: [⚡ ಕನ್ನಡಿಗ ⚡](https://t.me/agora_professor)
 """
 
 
